@@ -1,0 +1,22 @@
+{
+  "name": "gulp-boilerplate",
+  "description": "Simple boilerplate with gulp.js",
+  "main": "gulpfile.js",
+  "authors": [
+    "chtotonetak <madlabman@mail.ru>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "boilerplate"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
